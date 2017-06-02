@@ -7,10 +7,18 @@
 // Le code suivant charge le fichier SVG externe, 
 // afin de le rendre accessible par Javascript
 
-var svgExt = document.getElementById("regionportugal");
 
-// On définit tous les objets SVG qu'on souhaite ensuite manipuler
-var svglisboa, svgalgarve, svgnorte, svgcentro, svgalentejo;
+
+
+// on exécute la fonction avec deux paramètres.
+// le premier est l'ID de l'objet SVG
+// le deuxième est la liste des ID des zones
+ 
+function LoadSVG( id, zones ){
+
+	var svgExt = document.getElementById(id);
+
+
 
 // test MediaQuery
 
@@ -22,55 +30,58 @@ svgExt.addEventListener("load",function() {
 
   // Le SVG est chargé, on peut maintenant
   // définir les formes qu'on souhaite manipuler
-  svglisboa = svgDoc.getElementById("lisboa");
-  svgalgarve = svgDoc.getElementById("algarve");
-  svgnorte = svgDoc.getElementById("norte");
-  svgcentro = svgDoc.getElementById("centro");
-  svgalentejo = svgDoc.getElementById("alentejo");
-
-  // On va rendre "sensible" un élément du SVG
-  svgnorte.addEventListener("mouseenter", svgnorte);
-  svgnorte.addEventListener("mouseleave", nortehover);
   
-  
+	  for (var i = 0; i < zones.length; i++) {
+		  
+		console.log("working on: " + zones[i]);
+	
+		zones[i] = svgDoc.getElementById(zones[i]);
+		
+		console.log(zones[i]);
+		
+		zones[i].addEventListener("mouseover", hoverimg);
+		zones[i].addEventListener("mouseout", hideimg);
+		
+	 }
+   
  }, false);
 
-function svgCountryInfo(){
+}
+ 
+ 
+
+function hoverimg(){
 
   // ce qui se passe au hover:
   // on obtient l'ID de l'élément survolé:
 
-  if(mq.matches) {
 
-  var CountryID = this.id;
-  console.log("svgCountryInfo: "+CountryID);
+  var hoverID = this.id;
+  console.log("svgCountryInfo: "+hoverID);
 
   // on en déduit l'élément à rendre visible
-  var CountryInfoClass = "." + CountryID + "hover";
-  var CountryInfo = document.querySelector( CountryInfoClass );
+  
+  var hoverClass = ".hover" + hoverID ;
+  
+  var hoverItem = document.querySelector( hoverClass );
 
-  CountryInfo.style.display="block";
-
-  }
+  hoverItem.style.display="block";
 
 }
 
-function svgCountryHide(){
+function hideimg(){
 
   // ce qui se passe au hover:
   // on obtient l'ID de l'élément survolé:
   
-  if(mq.matches) {
 
-  var CountryID = this.id;
-  console.log("svgCountryHide: "+CountryID);
+  var hoverID = this.id;
+  console.log("svgCountryHide: "+hoverID);
 
-  // on en déduit l'élément à rendre visible
-  var CountryInfoClass = "." + CountryID + "hover";
-  var CountryInfo = document.querySelector( CountryInfoClass );
+  var hoverClass = ".hover" + hoverID ;
+   var hoverItem = document.querySelector( hoverClass );
 
-  CountryInfo.style.display="none";
+  hoverItem.style.display="none";
 
-  }
 
 }
