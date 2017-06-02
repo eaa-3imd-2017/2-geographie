@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 396 253.4" style="enable-background:new 0 0 396 253.4;" xml:space="preserve">
+<style type="text/css">
+	.stgall, .appenzellext, .inconnu, .baleville, .uri, .tessin, .glaris, .grisons, .frauenfeld, .schaffouse, .schwyz, .nidwald, .obwald, .lucerne, .zug, .zurich, .argovie, .balecampagne, .soleure, .jura, .bern, .fribourg, .neuchatel, .vaud, .geneve, .valais, .appenzellint
+	{fill:#E53E3E;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.stgall, .appenzellext, .inconnu, .baleville, .uri, .tessin, .glaris, .grisons, .frauenfeld, .schaffouse, .schwyz, .nidwald, .obwald, .lucerne, .zug, .zurich, .argovie, .balecampagne, .soleure, .jura, .bern, .fribourg, .neuchatel, .vaud, .geneve, .valais, .appenzellint{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#E53E3E;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.stgall:hover, .appenzellext:hover, .inconnu:hover, .baleville:hover, .uri:hover, .tessin:hover, .glaris:hover, .grisons:hover, .frauenfeld:hover, .schaffouse:hover, .schwyz:hover, .nidwald:hover, .obwald:hover, .lucerne:hover, .zug:hover, .zurich:hover, .argovie:hover, .balecampagne:hover, .soleure:hover, .jura:hover, .bern:hover, .fribourg:hover, .neuchatel:hover, .vaud:hover, .geneve:hover, .valais:hover, .appenzellint:hover{
+	fill:#FF8F8F;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	
+	.stgallpoint, .appenzellextpoint, .inconnupoint, .balevillepoint, .uripoint, .tessinpoint, .glarispoint, .grisonspoint, .frauenfeldpoint, .schaffousepoint, .schwyzpoint, .nidwaldpoint, .obwaldpoint, .lucernepoint, .zugpoint, .zurichpoint, .argoviepoint, .balecampagnepoint, .soleurepoint, .jurapoint, .bernpoint, .fribourgpoint, .neuchatelpoint, .vaudpoint, .genevepoint, .valaispoint, .appenzellintpoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}
+</style>
+<g id="stgall">
+	<polygon id="stgall_1_" class="stgall" points="322.8,46.4 321.6,57.1 307.6,82.9 311.6,91.8 306.8,97.8 313.7,108.3 306.9,121.4 
+		289,118.5 282,92 265.9,84.7 248.2,79.4 265,65.9 261.1,55 271.6,50.7 265.8,43.9 291.8,44.8 303.5,42.8 	"/>
+	<circle id="stgallpoint" class="stgallpoint" cx="296.1" cy="48.5" r="2.2"/>
+</g>
+<g id="appenzellext">
+	<path id="appenzellext_1_" class="appenzellext" d="M298.1,76.5c-1,0-14.7-4.4-14.7-4.4L283,60.4l3.9-5.1l27.6-8.1l3.9,4.5l-9,7l-0.7,10.8
+		L298.1,76.5z"/>
+	<circle id="appenzellextpoint" class="appenzellextpoint" cx="289" cy="60.7" r="2.2"/>
+</g>
+<g id="inconnu">
+	<polygon class="inconnu" points="223.1,133.4 223.9,126.5 213.4,122.5 214.4,131.6 218.8,136 218.8,136 	"/>
+</g>
+<polygon id="baleville" class="baleville" points="154.1,29.9 154.1,38 149.2,35.8 146.6,39.6 141.4,33.2 "/>
+<g id="uri">
+	<g id="uri_1_">
+		<polygon class="uri" points="218.8,136 213.6,148.8 217.9,162.6 238.8,152.5 237.9,146.4 256.7,129.3 263.5,127 261.6,115.9 
+			254,119.5 251.5,113.4 227.7,112.8 219.8,118 223.9,126.4 223,133.5 		"/>
+	</g>
+	<circle id="uripoint" class="uripoint" cx="236.1" cy="122" r="2.2"/>
+</g>
+<g id="tessin">
+	<polygon id="tessin_1_" class="tessin" points="281.7,212.1 269.9,196.6 274.8,173.9 261.3,151.9 240,160.4 238.9,152.4 217.8,162.5 
+		219.6,168.3 212.1,175.1 220.5,174.5 218.1,200.6 240.3,221.2 254.9,221.7 250.2,234.8 262.5,252.7 275.9,245 267.4,228.4 	"/>
+	<circle id="tessinpoint" class="tessinpoint" cx="270.5" cy="207.2" r="2.2"/>
+</g>
+<g id="glaris">
+	<polygon id="glaris_1_" class="glaris" points="261.6,115.9 263.5,126.9 289.2,118.4 282.1,91.9 266.1,84.6 257.2,102.9 263,110.8 	
+		"/>
+	<circle id="glarispoint" class="glarispoint" cx="272" cy="105.4" r="2.2"/>
+</g>
+<g id="grisons">
+	<polygon id="grisons_1_" class="grisons" points="239.9,160.5 237.9,146.3 256.6,129.2 289.2,118.4 307,121.4 313.9,108.2 307,97.7 
+		341.1,101.3 343.1,114.1 366.5,123.7 384.5,103.9 397,113.5 395.4,162.8 363.2,153.2 358.9,176.9 370.1,199.9 360.5,203.6 
+		346.4,184.5 319.4,196 304.3,171.3 289.5,174.3 292.8,192.7 281.6,212.1 269.8,196.6 274.7,174 261.2,151.9 	"/>
+	<circle id="grisonspoint" class="grisonspoint" cx="312.3" cy="124.5" r="2.2"/>
+</g>
+<g id="frauenfeld">
+	<polygon id="frauenfeld_1_" class="frauenfeld" points="236.1,21 256.1,40.4 261.4,54.9 271.7,50.7 265.9,43.8 291.9,44.8 303.7,42.8 
+		284.9,24.4 266.5,20.8 256.4,24.8 239.2,18.1 	"/>
+	<circle id="frauenfeldpoint" class="frauenfeldpoint" cx="259.9" cy="35.3" r="2.2"/>
+</g>
+<g id="schaffouse">
+	<polygon id="schaffouse_1_" class="schaffouse" points="233.7,18.6 224.6,24 214.2,19 228.6,2.8 243.2,10.9 242.4,19.1 239.3,17.9 
+		236.1,20.8 	"/>
+	<circle id="schaffousepoint" class="schaffousepoint" cx="234" cy="14.4" r="2.2"/>
+</g>
+<g id="schwyz">
+	<g id="schwyz_1_">
+		<polyline class="schwyz" points="238.2,86.3 238.6,91.4 227.2,96.5 217.5,91.9 208.7,106 227.7,112.8 227.7,112.8 251.5,113.4 
+			254,119.5 261.6,115.9 263,110.8 257.2,102.9 266.1,84.6 248.4,79.3 238.2,86.2 		"/>
+	</g>
+	<circle id="schwyzpoint" class="schwyzpoint" cx="234.2" cy="102.8" r="2.2"/>
+</g>
+<g id="nidwald">
+	<polyline id="nidwald_1_" class="nidwald" points="218.8,136.1 214.3,131.7 213.3,122.5 223.9,126.5 219.9,118.1 227.7,112.9 
+		208.7,106 205.7,114.8 209.8,114.9 210.6,133.7 218.8,136 	"/>
+	<circle id="nidwaldpoint" class="nidwaldpoint" cx="218" cy="113.4" r="2.2"/>
+</g>
+<g id="obwald">
+	<polygon id="obwald_1_" class="obwald" points="209.7,114.8 205.7,114.7 208.7,105.9 193.8,111.1 184.3,132.8 184.4,132.8 191,136.9 
+		210.6,133.5 	"/>
+	<circle id="obwaldpoint" class="obwaldpoint" cx="202.8" cy="120.1" r="2.2"/>
+</g>
+<g id="lucerne">
+	<polygon id="lucerne_1_" class="lucerne" points="166.6,76.6 185,74 204,71.1 217.5,91.8 208.6,105.9 193.8,111.2 184.3,132.9 
+		167.5,125.3 176.7,107.5 168.2,97.4 	"/>
+	<circle id="lucernepoint" class="lucernepoint" cx="205.5" cy="99" r="2.2"/>
+</g>
+<g id="zug">
+	<polygon id="zug_1_" class="zug" points="238.2,86.3 215.1,75.1 211.5,82.6 217.5,91.9 227.2,96.5 238.6,91.4 	"/>
+	<circle id="zugpoint" class="zugpoint" cx="225.5" cy="84.9" r="2.2"/>
+</g>
+<g id="zurich">
+	<polygon id="zurich_1_" class="zurich" points="233.6,18.8 256,40.5 265.2,65.8 248.4,79.3 238.2,86.2 213.9,74.3 218.2,66.4 
+		210.6,43.4 222.8,27.3 231,28.3 	"/>
+	<circle id="zurichpoint" class="zurichpoint" cx="227" cy="58.2" r="2.2"/>
+</g>
+<g id="argovie">
+	<polygon id="argovie_1_" class="argovie" points="154.2,38 165.1,42.9 168,38.3 178,48.9 184.8,58.7 179.1,67.5 172.3,63 165.1,72.8 
+		167.8,76.5 185,74 204.1,71 211.5,82.5 215.2,75 213.9,74.3 218.2,66.4 210.6,43.4 217.5,34.4 196.3,27.4 185.6,35.8 172.9,36 
+		165.5,31.5 	"/>
+	<circle id="argoviepoint" class="argoviepoint" cx="189.4" cy="57.3" r="2.2"/>
+</g>
+<g id="balecampagne">
+	<g id="balecampagne_1_">
+		<polygon class="balecampagne" points="178,48.9 161.4,63.2 148.6,58.1 154.6,44.5 148.6,44.5 131.9,57.3 121.5,50.6 138,42.6 141.4,33.2 
+			146.5,39.6 149.2,35.8 165.1,42.9 168,38.3 		"/>
+	</g>
+	<circle id="balecampagnepoint" class="balecampagnepoint" cx="159.9" cy="44.6" r="2.2"/>
+</g>
+<g id="soleure">
+	<polygon id="soleure_1_" class="soleure" points="140.9,63.2 143.4,64 123.4,78.4 127.1,84.6 135.7,82.5 126.1,92.1 135,95.7 
+		140.4,85.2 152,85.8 144.1,71 165.1,72.8 172.3,63 179.1,67.5 184.8,58.8 178,49 161.4,63.2 148.6,58.1 154.6,44.5 148.6,44.5 
+		131.9,57.4 	"/>
+	<circle id="soleurepoint" class="soleurepoint" cx="141.2" cy="78.2" r="2.2"/>
+</g>
+<g id="jura">
+	<polygon id="jura_1_" class="jura" points="83.7,58.6 95.5,42.4 111.3,42.8 111,50.7 121.5,50.7 140.9,63.2 111,68.4 86,84.9 
+		81.1,81.9 98.8,62.2 95.2,58.9 	"/>
+	<circle id="jurapoint" class="jurapoint" cx="124.4" cy="59.4" r="2.2"/>
+</g>
+<g id="bern">
+	<polygon id="bern_1_" class="bern" points="184.4,132.9 167.6,125.3 176.8,107.6 168.3,97.4 166.6,76.7 167.7,76.5 165.3,72.8 
+		144.1,71 152,85.8 140.4,85.2 135,95.7 126.1,92.1 135.7,82.5 127.1,84.6 123.3,78.4 143.4,64 140.9,63.2 111,68.4 86,84.9 
+		81.1,81.9 81.1,84.5 83.4,94.4 97.2,91.1 101.5,98.7 95.2,103.5 98,108.8 98,108.9 113,105.3 122.6,121.7 118.3,139.8 123.9,150.6 
+		112.7,163.1 112.5,185.2 112.2,191.7 117.3,186.8 172.5,172.7 183.1,160.8 200.5,165.1 213.6,148.7 218.8,135.9 210.6,133.6 
+		191,137 	"/>
+	<circle id="bernpoint" class="bernpoint" cx="131.6" cy="112.3" r="2.2"/>
+</g>
+<g id="fribourg">
+	<polygon id="fribourg_1_" class="fribourg" points="73.8,158.5 93.6,122.7 99.5,122 97.8,108.9 113,105.2 122.5,121.7 118.2,139.8 
+		123.8,150.6 112.6,163.1 92.3,175.9 87.6,168.4 77.5,167.7 83.7,159.2 	"/>
+	<circle id="fribourgpoint" class="fribourgpoint" cx="107.5" cy="128.1" r="2.2"/>
+</g>
+<g id="neuchatel">
+	<polygon id="neuchatel_1_" class="neuchatel" points="44.6,121.7 43.6,110.2 68.9,98.3 81.1,84.5 83.4,94.4 97.2,91.1 101.5,98.7 
+		71.2,121.4 64,113.8 50.5,123.7 	"/>
+	<circle id="neuchatelpoint" class="neuchatelpoint" cx="87.3" cy="102.6" r="2.2"/>
+</g>
+<g id="vaud">
+	<polygon id="vaud_1_" class="vaud" points="112.8,163.1 92.4,175.9 87.8,168.4 77.6,167.7 83.8,159.2 74,158.5 93.7,122.7 99.6,122 
+		98,108.9 95.1,103.5 71.3,121.4 64.1,113.8 50.6,123.7 44.7,121.7 44.3,133.4 14.6,156.5 18,161.1 10.1,176.3 15.7,184.8 
+		24.5,186.1 32.2,172.9 60.2,166.1 85.8,180.7 76.8,181.2 95.6,207.8 112.3,191.6 	"/>
+	<circle id="vaudpoint" class="vaudpoint" cx="66" cy="162.1" r="2.2"/>
+</g>
+<g id="geneve">
+	<polygon id="geneve_1_" class="geneve" points="0.2,210.1 1.8,200.3 14.7,199.6 15.6,184.8 24.5,186.1 26.8,198.6 31.8,200.6 
+		17,211.8 	"/>
+	<circle id="genevepoint" class="genevepoint" cx="17.8" cy="204.2" r="2.2"/>
+</g>
+<g id="valais">
+	<polygon id="valais_1_" class="valais" points="213.6,148.6 219.5,168.4 187.9,197.3 193.2,215.1 166.9,241.7 140.9,234.5 
+		104.4,249.3 74.5,211.1 76.8,181.2 95.5,207.8 117.2,186.8 172.5,172.6 183,160.8 200.4,165.1 	"/>
+	<circle id="valaispoint" class="valaispoint" cx="124.7" cy="201.1" r="2.2"/>
+</g>
+<g id="appenzellint">
+	<polygon id="appenzellint_1_" class="appenzellint" points="296.6,57.2 291.5,64.9 295.8,76.1 298,76.5 308.6,69.5 309.2,61.8 	"/>
+	<circle id="appenzellintpoint" class="appenzellintpoint" cx="300.6" cy="65.4" r="2.2"/>
+</g>
+</svg>

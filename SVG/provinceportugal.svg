@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="regionportugal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 261.2 517.2" style="enable-background:new 0 0 261.2 517.2;" xml:space="preserve">
+<style type="text/css">
+	.faro{fill:#006600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.faro{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#006600;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.faro:hover{
+	fill:#6BB56B;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.faropoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}
+			
+			
+	.braga{fill:#006600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.braga{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#006600;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.braga:hover{
+	fill:#6BB56B;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.bragapoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}				
+			
+			
+.porto{fill:#006600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.porto{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#006600;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.porto:hover{
+	fill:#6BB56B;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.portopoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}
+			
+			
+	.vilareal{fill:#006600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.vilareal{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#006600;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.vilareal:hover{
+	fill:#6BB56B;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.vilarealpoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}
+			
+	.castelo{fill:#006600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.castelo{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#006600;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.castelo:hover{
+	fill:#6BB56B;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.castelopoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}	
+			
+			
+	.braganca{fill:#006600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.braganca{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#006600;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.braganca:hover{
+	fill:#6BB56B;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.bragancapoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}	
+			
+			
+	.aveiro{fill:#006600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.aveiro{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#006600;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.aveiro:hover{
+	fill:#6BB56B;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.aveiropoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}	
+			
+			
+	.viseu{fill:#006600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.viseu{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#006600;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.viseu:hover{
+	fill:#6BB56B;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.viseupoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}
+			
+			
+	.guarda{fill:#006600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.guarda{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#006600;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.guarda:hover{
+	fill:#6BB56B;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.guardapoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}		
+			
+			
+	.branco{fill:#006600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.branco{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#006600;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.branco:hover{
+	fill:#6BB56B;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.brancopoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}				
+			
+			
+	.coimbra{fill:#006600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.coimbra{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#006600;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.coimbra:hover{
+	fill:#6BB56B;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.coimbrapoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}				
+			
+			
+			
+	.leiria{fill:#006600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.leiria{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#006600;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.leiria:hover{
+	fill:#6BB56B;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.leiriapoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}					
+			
+			
+			
+	.portalegre{fill:#006600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.portalegre{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#006600;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.portalegre:hover{
+	fill:#6BB56B;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.portalegrepoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}						
+			
+			
+			
+.evora{fill:#006600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.evora{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#006600;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.evora:hover{
+	fill:#6BB56B;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.evorapoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}	
+			
+			
+	.santarem{fill:#006600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.santarem{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#006600;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.santarem:hover{
+	fill:#6BB56B;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.santarempoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}		
+			
+			
+			
+.lisboapronvince{fill:#006600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.lisboapronvince{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#006600;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.lisboapronvince:hover{
+	fill:#6BB56B;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.lisboapronvincepoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}	
+			
+			
+			
+	.beja{fill:#006600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.beja{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#006600;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.beja:hover{
+	fill:#6BB56B;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.bejapoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}				
+			
+			
+			
+	.setubal{fill:#006600;stroke:#FFFFFF;stroke-miterlimit:10;}
+	
+	.setubal{
+	animation-name:hide;
+	animation-duration: 3s;
+	fill:#006600;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.setubal:hover{
+	fill:#6BB56B;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	.setubalpoint{
+	fill:#ffffff;
+	stroke:#ffffff;
+	stroke-width:1;stroke-linejoin:round;}
+	
+	@keyframes hide {
+	
+				
+				0% {
+					opacity:0;
+				}
+				
+				100%{
+				opacity:1;}
+			}																																									
+</style>
+<g id="farogroupe_1_">
+	<polygon id="faro_1_" class="faro" points="152.3,453 152,453 130.5,463.3 120,463.3 118,472.9 97.6,468.6 98.7,463.3 60.9,463.3 
+		53,477.2 47.8,495.9 71,492.4 72.3,486.9 119.3,497.5 118.4,501.4 129.9,501.4 160.4,483.7 	"/>
+	<circle id="faropoint_1_" class="faropoint" cx="123" cy="488.3" r="3.8"/>
+</g>
+<g id="bragagroupe_1_">
+	<polygon id="braga_1_" class="braga" points="83.9,48.7 56.6,62.4 56.5,62.3 56.5,62.3 61.5,82.7 118,88.4 132.3,63.5 128.6,58.7 
+		126,62.7 108.9,51.5 115.3,41.7 111,36.2 108.3,36.9 108.2,36.7 108.2,36.7 	"/>
+	<circle id="bragapoint_1_" class="bragapoint" cx="87.8" cy="70" r="3.8"/>
+</g>
+<g id="portogroupe_1_">
+	<polygon id="porto_1_" class="porto" points="118,88.5 61.5,82.9 70,117.7 95.2,117.7 94.4,111.5 129,107.3 121.1,83.2 	"/>
+	<circle id="portopoint_1_" class="portopoint" cx="87.9" cy="103.7" r="3.8"/>
+</g>
+<g id="vilarealgroupe_1_">
+	<polygon id="vilareal_1_" class="vilareal" points="176.9,38 120.7,34.1 111,36.4 115.3,41.8 108.9,51.7 126,62.8 128.6,58.8 
+		132.3,63.7 121.1,83.2 129,107.3 160.4,103.5 	"/>
+	<circle id="vilarealpoint_1_" class="vilarealpoint" cx="151.2" cy="93.6" r="3.8"/>
+</g>
+<g id="castelogroupe_1_">
+	<polygon id="castelo_1_" class="castelo" points="83.9,48.7 108.2,36.6 102.7,13.3 89.6,12 50.4,36.9 56.5,62.3 	"/>
+	<circle id="castelopoint_1_" class="castelopoint" cx="62.9" cy="42.2" r="3.8"/>
+</g>
+<g id="bragancagroupe_1_">
+	<polyline id="braganca_1_" class="braganca" points="198.7,117.6 246.7,75.6 246.7,61.5 243.9,57 223.3,57 223.3,28.3 180,25.7 
+		160.4,103.5 181.7,100.9 182.9,110.6 198.6,117.7 198.7,117.6 	"/>
+	<circle id="bragancapoint_1_" class="bragancapoint" cx="204.8" cy="46" r="3.8"/>
+</g>
+<g id="aveirogroupe_1_">
+	<polygon id="aveiro_1_" class="aveiro" points="98.2,111.4 94.9,111.4 94.2,111.5 95,117.7 69.8,117.7 69.5,116.5 63.6,138.2 
+		73.7,142.1 66.9,159.6 60.1,157 60.1,169.3 80.2,187.3 91,187.3 102.2,157.3 93.4,153.4 101.4,135.3 109.2,138.7 110.2,136.1 
+		110.2,122.8 	"/>
+	<circle id="aveiropoint_1_" class="aveiropoint" cx="82.6" cy="138.3" r="3.8"/>
+</g>
+<g id="viseugroupe_1_">
+	<polygon id="viseu_1_" class="viseu" points="160.4,103.4 129,107.2 98.2,111 98.2,111.4 110.2,122.8 110.2,136.1 109.2,138.7 
+		101.4,135.3 93.4,153.4 102.2,157.3 92.6,182.9 101.7,189.7 145.4,164.1 154.2,152 145.4,140.8 154.3,133.8 158.9,139.6 
+		168.7,113.4 168.7,102.4 	"/>
+	<circle id="viseupoint_1_" class="viseupoint" cx="124.6" cy="154.2" r="3.8"/>
+</g>
+<g id="guardagroupe_1_">
+	<polygon id="guarda_1_" class="guarda" points="198.6,117.7 182.9,110.6 181.7,100.9 168.7,102.5 168.7,113.4 158.9,139.6 
+		154.3,133.8 145.4,140.8 154.2,152 145.4,164.1 132,172 132,195.8 138,195.6 152.4,188.3 154.3,179.6 171.6,183.4 169.6,192.4 
+		203.5,193.9 204.8,140.6 	"/>
+	<circle id="guardapoint_1_" class="guardapoint" cx="172.2" cy="163.6" r="3.8"/>
+</g>
+<g id="brancogroupe_1_">
+	<polygon id="branco_1_" class="branco" points="194,193.5 169.6,192.4 171.6,183.4 154.3,179.6 152.4,188.3 138.4,195.4 133.3,201.4 
+		133.3,215.7 118.6,215.7 98.5,236.3 98.5,245.1 102.2,255.3 114.8,254 114.8,244.2 123.9,244.2 127.7,252.7 191.3,246.2 
+		200.9,217.9 189.4,207.5 	"/>
+	<circle id="brancopoint_1_" class="brancopoint" cx="157.4" cy="229.3" r="3.8"/>
+</g>
+<g id="coimbragroupe_1_">
+	<polygon id="coimbra_1_" class="coimbra" points="138,195.6 132,195.8 132,172 101.7,189.7 92.6,182.9 91,187.3 80.2,187.3 60.1,169.3 
+		52.1,195 52.1,215 97,224.2 98.6,224.2 96.9,214.4 108.4,212.3 110.5,224.1 118.6,215.7 133.3,215.7 133.3,201.4 138,195.9 
+		138,195.6 	"/>
+	<circle id="coimbrapoint_1_" class="coimbrapoint" cx="90.9" cy="200.4" r="3.8"/>
+</g>
+<g id="leiriagroupe_1_">
+	<polygon id="leiria_1_" class="leiria" points="44.1,283.9 56,267.3 60.9,270.8 71.2,262.3 66.4,238.7 82.7,235.4 84.4,243.6 
+		97.8,240.4 98.5,239.8 98.5,236.3 110.5,224.1 108.4,212.3 96.9,214.4 98.6,224.2 97,224.2 52.1,215 18.8,285.1 31.6,294.8 	"/>
+	<circle id="leiriapoint_1_" class="leiriapoint" cx="57" cy="235.9" r="3.8"/>
+</g>
+<g id="portalegregroupe_1_">
+	<polygon id="portalegre_1_" class="portalegre" points="188,302.7 182.5,306.5 165.2,281.6 170.5,277.9 151.1,250.4 132.6,252.3 
+		132.6,260.6 92.6,304.1 96.9,313.9 144.8,327.6 148.4,315.2 163.5,319.6 160,331.9 173.9,335.9 195.9,313.8 	"/>
+	<circle id="portalegrepoint_1_" class="portalegrepoint" cx="153.6" cy="290.9" r="3.8"/>
+</g>
+<g id="evoragroupe_1_">
+	<polygon id="evora_1_" class="evora" points="176.7,379.6 165.5,366.9 173.9,335.9 160,331.9 163.5,319.6 148.4,315.2 144.8,327.6 
+		97,313.9 100.1,321 109.3,335.4 104.7,335.8 97.1,328.1 82.5,333.4 82,338 71.1,357.1 80.3,361.5 83.7,358.4 95.8,358.4 
+		95.8,368.7 131.2,385.3 154.7,390.3 161.9,381.9 169.9,379.3 175.8,392.2 181.9,392.4 	"/>
+	<circle id="evorapoint_1_" class="evorapoint" cx="132.6" cy="362.4" r="3.8"/>
+</g>
+<g id="santaremgroupe_1_">
+	<polyline id="santarem_1_" class="santarem" points="54.9,311.8 54.7,315.2 50.3,325.7 49.7,339.8 63.4,339.8 63.4,330.8 74.8,330.8 
+		74.8,338.7 82,338 82.5,333.4 97.1,328.1 104.7,335.8 109.3,335.4 100.1,321 92.6,304 132.6,260.5 132.6,252.2 127.7,252.7 
+		123.9,244.2 114.8,244.2 114.8,254 102.2,255.3 98.5,245.1 98.5,239.8 97.8,240.4 84.4,243.6 82.7,235.4 66.4,238.7 71.2,262.3 
+		60.9,270.8 56,267.3 44.1,283.9 41.8,285.9 41.8,289.1 56.6,289.1 54.9,311.8 	"/>
+	<circle id="santarempoint_1_" class="santarempoint" cx="70.6" cy="277.7" r="3.8"/>
+</g>
+<g id="lisboagroupe_1_">
+	<polygon id="lisboa_1_" class="lisboapronvince" points="54.9,311.8 56.6,289.1 41.8,289.1 41.8,285.9 31.6,294.8 20.8,286.6 7.6,330.5 
+		7.6,340.9 33.2,341 36.4,336.7 45.9,315 	"/>
+	<circle id="lisboapoint_1_" class="lisboapronvincepoint" cx="29.1" cy="321" r="3.8"/>
+</g>
+<g id="bejagroupe_1_">
+	<polygon id="beja_1_" class="beja" points="156.5,447.6 155.1,439.8 174.8,408.8 184.9,408.4 195.9,393.2 181.9,392.4 175.8,392.2 
+		169.9,379.3 161.9,381.9 154.7,390.3 131.2,385.3 108.8,374.8 91.3,397 93.5,418.9 66.8,428.5 62,434.4 58.2,451.2 60.9,463.3 
+		98.7,463.3 97.6,468.6 112.3,471.7 118,472.9 120,463.3 130.5,463.3 152,453 	"/>
+	<circle id="bejapoint_1_" class="bejapoint" cx="128.8" cy="405.3" r="3.8"/>
+</g>
+<g id="setubalgroupe_1_">
+	<polygon id="setubal_1_" class="setubal" points="80.3,361.4 83.7,358.3 95.7,358.3 95.7,368.6 109.4,375.1 109.4,375.1 108.7,374.7 
+		91.3,396.9 93.5,418.9 66.8,428.4 66.7,428.5 53.7,410.6 60.3,359.4 31,365.4 28.3,347.3 49.8,339.8 63.4,339.8 63.4,330.9 
+		74.8,330.9 74.8,338.8 82,338.1 71.1,357.1 	"/>
+	<circle id="setubalpoint_1_" class="setubalpoint" cx="51.9" cy="349.4" r="3.8"/>
+</g>
+</svg>
